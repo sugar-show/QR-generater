@@ -54,6 +54,7 @@ body{
 #imgBox img{
     width: 100%;
     padding: 10px;
+    box-sizing: border-box;
 }
 #imgBox.show-img{
     max-height: 300px;
